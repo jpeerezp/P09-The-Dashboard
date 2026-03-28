@@ -175,7 +175,7 @@ Constratints:
 
 ## 📊 A/B Test Results
 
-| Criteria | v1.0 Score | v1.1 Socre | 
+| Criteria | v1.0 Score | v1.1 Score | 
 | :--- | :---: | :--- |
 | **Readability** | `2.5  / 5` | `5.0 / 5` | 
 | **Completeness** | `5.0 / 5` | `5.0 / 5` | 
