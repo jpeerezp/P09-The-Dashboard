@@ -176,3 +176,15 @@ Constratints:
 * Remove the black background of the image.
 * Relocate the Digital Twin In the middle of the "Digital Twin Active" pannel (right in between the HRV score, recovery percentage, reaction time and neural status metrics). I believe that was your idea, but you failed in the execution.
 * Add a dynamic blue scanning line that goes ap and down the body architecture once you resize it and remove the background.
+
+---
+
+## 📊 A/B Test Results:
+
+| Criteria | v1.0 Score | v1.1 Socre | 
+| :--- | :---: | :--- |
+| **Readability** | `2.5  / 5` | `5.0 / 5` | 
+| **Completeness** | `5.0 / 5` | `5.0 / 5` | 
+| **Tone Appropriateness** | `4.5 / 5` | `5.0 / 5` |
+| **Instruction Adherence** | `5.0 / 5` | `5.0 / 5` | 
+| **Overall** | **3.4** | **5.0** | 
