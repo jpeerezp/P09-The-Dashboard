@@ -113,17 +113,11 @@ The **"Value Gap"** occurs when traditional sports science data remains too frag
 
 **Pain Points Addressed:**
 
-* **Contextual Blindness:**
-  > **Problem:** A coach sees "Hamstring Fatigue: High" and finds it restrictive.
-  > **Solution:** `P09` translates this to "Hamstring Fatigue = Restricted 1v1 Isolation Ability." This allows the coach to adjust the game plan (e.g., switching from wide isolations to central combinations) based on the player's actual physical bandwidth.
+- If coach sees "Hamstring Fatigue: High" and finds it restrictive. `P09` translates this to "Hamstring Fatigue = Restricted 1v1 Isolation Ability." This allows the coach to adjust the game plan (e.g., switching from wide isolations to central combinations) based on the player's actual physical bandwidth.
 
-* **Investment Protection:**
-  > **Problem:** Owners and Board Members often see the benching of a Star Player (`ID 824009`) as a loss of value or a personal whim.
-  > **Solution:** `P09` provides a data-backed "Audit Trail." It visually proves that the asset is being managed with surgical precision, protecting the club's financial and sporting interests from high-risk, "guesswork" decisions.
+ - Investment Protection: `P09` provides a data-backed "Audit Trail." It visually proves that the asset is being managed with surgical precision, protecting the club's financial and sporting interests from high-risk, "guesswork" decisions.
 
-* **Decision Paralysis (MD-1):**
-  > **Problem:** Too many reports (P01-P08) to digest in the final 24 hours.
-  > **Solution:** Synthesizes the entire microcycle into a single "Combat Readiness Score." If the score is below the threshold, the system suggests the optimal substitution window (e.g., "Max 60 mins") before the first whistle blows.
+- Decision Paralysis (MD-1): Synthesizes the entire microcycle into a single "Combat Readiness Score." If the score is below the threshold, the system suggests the optimal substitution window (e.g., "Max 60 mins") before the first whistle blows.
 
 ---
 
@@ -133,10 +127,10 @@ The **"Value Gap"** occurs when traditional sports science data remains too frag
 
 | Dimension | Assessment |
 | :--- | :--- |
-| **Repetitiveness** | `High` &nbsp; • &nbsp; Generated for every player in the Traveling 18, every MD-1. |
-| **Data Availability** | `Very High` &nbsp; • &nbsp; Feeds directly from the `P01–P08` JSON pipeline. |
-| **Human Judgment needed** | `Low` &nbsp; • &nbsp; Visual approval of the "Scanner" and data layout only. |
-| **Integration Possibility** | `High` &nbsp; • &nbsp; Designed for Club iPad apps or Stadium Tunnel screens. |
+| **Repetitiveness** | `High` &nbsp; - &nbsp; Generated for every player in the Traveling 18, every MD-1. |
+| **Data Availability** | `Very High` &nbsp; - &nbsp; Feeds directly from the `P01–P08` JSON pipeline. |
+| **Human Judgment needed** | `Low` &nbsp; - &nbsp; Visual approval of the "Scanner" and data layout only. |
+| **Integration Possibility** | `High` &nbsp; - &nbsp; Designed for Club iPad apps or Stadium Tunnel screens. |
 
 **Estimated Time Saving:** ~98% (Converts 4 hours of inter-departmental meetings into a 15/30-minute executive briefing).
 
@@ -146,9 +140,9 @@ The **"Value Gap"** occurs when traditional sports science data remains too frag
 
 | Risk | Level | Mitigation |
 | :--- | :---: | :--- |
-| **Mechanical Failure** | `High` | **Warm-up Volume Capping:** If the delta between `P01` and `P05` exceeds 15%, the S&C coach must limit the player to 3 explosive accelerations during the pre-match activation to preserve the "high-speed tank" for the first 45 minutes. |
-| **Neural/Cognitive Overload** | `Medium` | **Briefing Simplification:** If `P02/P04` show high latency, the Tactical Analyst is restricted to 2 visual cues (video clips) instead of a full team briefing, reducing the cognitive load to prevent early-match decision errors. |
-| **Tactical Friction** | `Medium` | **Positional Tethering:** When `P03` (Ideal) conflicts with `P07` (Limit), the Head Coach must instruct a teammate (e.g., a CDM) to cover the "High-Intensity Zone" that the compromised player is now restricted from entering. |
+| **Mechanical Failure** | `High` | If the delta between `P01` and `P05` exceeds 15%, the S&C coach must limit the player to 3 explosive accelerations during the pre-match activation to preserve the "high-speed tank" for the first 45 minutes. |
+| **Neural/Cognitive Overload** | `Medium` |If `P02/P04` show high latency, the Tactical Analyst is restricted to 2 visual cues (video clips) instead of a full team briefing, reducing the cognitive load to prevent early-match decision errors. |
+| **Tactical Friction** | `Medium` |When `P03` (Ideal) conflicts with `P07` (Limit), the Head Coach must instruct a teammate (e.g., a CDM) to cover the "High-Intensity Zone" that the compromised player is now restricted from entering. |
 
 ---
 
